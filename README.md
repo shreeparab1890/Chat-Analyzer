@@ -1,5 +1,5 @@
 # Chat Analyzer
-This project is a Data Analysis project to analyze the WhatsApp Chats. This may include one to one chat or a group chat. 
+This project is a Analysis project to analyze the WhatsApp Chats. This may include one to one chat or a group chat. 
 
 ## Packeges Used:
  ![Python][python] ![Pandas][Pandas-image] ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter Notebook][ipython-image] ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
